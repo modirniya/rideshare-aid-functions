@@ -1,19 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ef081df-4aa1-44db-859a-0ea42ab66745" name="Default Changelist" comment="" />
+    <list default="true" id="6ef081df-4aa1-44db-859a-0ea42ab66745" name="Default Changelist" comment="First draft">
+      <change afterPath="$PROJECT_DIR$/functions/src/stat.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/functions/src/index.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gIwhDQbtR6VO2BgKRoSsQj3YdU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../letitgo" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -34,11 +60,44 @@
       <workItem from="1597920106548" duration="1182000" />
       <workItem from="1597999216999" duration="1125000" />
       <workItem from="1598002847066" duration="5261000" />
+      <workItem from="1598009363459" duration="702000" />
+      <workItem from="1598256125815" duration="4070000" />
     </task>
+    <task id="LOCAL-00001" summary="First draft">
+      <created>1598009399295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598009399295</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First draft">
+      <created>1598009467652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598009467652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="First draft" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598001792452">
@@ -49,5 +108,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-681.1080.1880@0.0.1920.1040" timestamp="1597920240158" />
+    <state x="-948" y="-9" key="Vcs.Push.Dialog.v2" timestamp="1598009486432">
+      <screen x="-1080" y="-681" width="1080" height="1880" />
+    </state>
+    <state x="-948" y="-9" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1080.-681.1080.1880@-1080.-681.1080.1880" timestamp="1598009486432" />
+    <state x="-1080" y="-154" width="1096" height="772" maximized="true" key="dock-window-1" timestamp="1598258062174">
+      <screen x="-1080" y="-681" width="1080" height="1880" />
+    </state>
+    <state x="-1080" y="-154" width="1096" height="772" maximized="true" key="dock-window-1/0.0.1920.1040/-1080.-681.1080.1880@0.0.1920.1040" timestamp="1598258062174" />
   </component>
 </project>
